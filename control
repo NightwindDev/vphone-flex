@@ -1,0 +1,9 @@
+Package: com.nightwind.vphone-flex
+Name: vphone-flex
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Invoke FLEX by pressing option + F on vphone-cli.
+Maintainer: NightwindDev
+Author: NightwindDev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), libvolumeflex
